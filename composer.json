@@ -1,5 +1,5 @@
 {
-    "name": "anonymhk/tronapi",
+    "name": "tronapi",
     "description": "Support TRON's TRX and TRC20, A PHP library to create Tron wallet addresses and manage wallets using the Tron API",
     "keywords": [
         "php",
