@@ -27,7 +27,7 @@ set_composer_path(){
 
 main(){
     install_php_composer
-    set_composer_path
+    set_composer_pathcd
 }
 
 main
